@@ -1,0 +1,16 @@
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\MyCalc.Tests.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\MyCalc.Tests.pdb
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\MyCalc.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\MyCalc.pdb
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\obj\Debug\MyCalc.Tests.csprojAssemblyReference.cache
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\obj\Debug\MyCalc.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\obj\Debug\MyCalc.Tests.csproj.CopyComplete
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\obj\Debug\MyCalc.Tests.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc.Tests\obj\Debug\MyCalc.Tests.pdb

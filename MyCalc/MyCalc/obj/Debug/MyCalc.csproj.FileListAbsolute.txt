@@ -1,0 +1,6 @@
+D:\EPAM\UnitTests\MyCalc\MyCalc\bin\Debug\MyCalc.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+D:\EPAM\UnitTests\MyCalc\MyCalc\obj\Debug\MyCalc.csprojAssemblyReference.cache
+D:\EPAM\UnitTests\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.CoreCompileInputs.cache
+D:\EPAM\UnitTests\MyCalc\MyCalc\obj\Debug\MyCalc.dll
+D:\EPAM\UnitTests\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
